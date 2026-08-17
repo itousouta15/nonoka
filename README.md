@@ -1,6 +1,6 @@
 # nono
 
-一行字和一張大 GIF — [nono.itousouta15.tw](https://nono.itousouta15.tw)
+一行字和一張大 GIF — [nono.itousouta15.tw](https://nono.itousouta.me)
 
 ## 改內容
 
